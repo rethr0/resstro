@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(210, 210, 210);
+    min-height: 100vh;
+    width: 100%;
+}
+
+.titleDiv{
+    width: 100%;
+    height: 64px;
+    background-color: rgb(180, 180, 180);
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+.gradeList{
+    font-size: 24px;
+    color: black;
+
+}
+
+.backHome{
+    text-align: right;
+    font-size: 16px;
+}

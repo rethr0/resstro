@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    width: 100%;
+}
+
+.julianOuter{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(180, 180, 180);
+}
+
+.julianInner{
+    height: 15%;
+    width: 100%;
+    background-color: rgb(210, 210, 210);
+}
+
+.homeLink{
+    text-align: right;
+    font-size: 16px;
+}
+
+h1 {
+    font-size:40px;
+    text-align:center;
+}

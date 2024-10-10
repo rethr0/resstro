@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height:100vh;
+    width:100%;
+}
+
+.jordanTitle {
+    color:rgb(50, 50, 50);
+    text-align:center;
+}
+
+.outerBox{
+    height:100%;
+    width: 100%;
+    background-color: rgb(180, 180, 180);
+    color:white;
+}
+
+.innerBox{
+    background-color:rgb(210, 210, 210);
+    height: 15%;
+    width:100%;
+}
+.homeLink{
+    text-align: right;
+    font-size: 16px;
+}
+
